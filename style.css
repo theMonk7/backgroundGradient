@@ -1,0 +1,9 @@
+body{
+  text-align: center;
+  background-image: linear-gradient(to right, #0000ff, #ff0000);
+}
+.pageHeading{
+  font-family: 'Press Start 2P', cursive;
+  font-size: 3em;
+  letter-spacing: 0.5em;
+}
